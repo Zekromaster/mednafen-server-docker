@@ -1,0 +1,5 @@
+= Mednafen Server Docker Image
+
+This image downloads Mednafen Server from the Mednafen Website and hosts the Mednafen-Server.
+
+For now, fork to change the config. Password is the $SERVER_PASSWORD environment variable.
